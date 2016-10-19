@@ -1,5 +1,7 @@
 # Sommario
 
+![Logo](https://raw.githubusercontent.com/open-comune/desio-linee-programmatiche/master/files/logo.jpg)
+
 - [Premessa](/struttura/premessa.md)
 
 
