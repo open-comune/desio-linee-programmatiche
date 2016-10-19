@@ -1,3 +1,5 @@
+[Sommario](/struttura/sommario.md)
+
 # Premessa
 
 Questo programma di mandato è rivolto a tutti cittadini di Desio che vi abitano e che le vogliono bene.
