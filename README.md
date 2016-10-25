@@ -16,6 +16,12 @@ Questo progetto è partito in seguito alla condivisione del documento [Linee Pro
 
 I contenuti di tale documento sono stati qui organizzati da @olistik in modo da favorirne la condivisione e la discussione.
 
+## Cosa non è
+
+- **Non si tratta del bilancio partecipativo.**
+- **Non si tratta di proporre dei progetti specifici per i quartieri.**
+- **Non è una trovata pubblicitaria politica, il documento originale è stato prodotto semplicemente in seguito ad adempimento di legge.**
+
 ## Come consultare le Linee Programmatiche
 
 Per la consultazione è consigliabile partire dal [Sommario](struttura/sommario.md).
