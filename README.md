@@ -21,6 +21,7 @@ I contenuti di tale documento sono stati qui organizzati da @olistik in modo da 
 - **Non si tratta del bilancio partecipativo.**
 - **Non si tratta di proporre dei progetti specifici per i quartieri.**
 - **Non è una trovata pubblicitaria politica, il documento originale è stato prodotto semplicemente in seguito ad adempimento di legge.**
+- **Il documento è una manifestazione del [programma politico](https://github.com/elezioni-amministrative/Desio-2016/blob/master/coalizione-di-centro-sinistra.md#programma) della [maggioranza](https://github.com/elezioni-amministrative/Desio-2016/blob/master/coalizione-di-centro-sinistra.md) che ha vinto le [Elezioni Amministrative 2016](https://github.com/elezioni-amministrative/Desio-2016), quindi è lecito aspettarsi che le eventuali proposte integrative arrivino solo dall'opposizione.**
 
 ## Come consultare le Linee Programmatiche
 
